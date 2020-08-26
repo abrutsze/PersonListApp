@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Person App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">Id: </string>
+    <string name="name">Name: </string>
+    <string name="city">City: </string>
+    <string name="street">Street: </string>
+    <string name="username">Username: </string>
+    <string name="departure_time">Departure Time: </string>
+    <string name="refresh_to_load_data">Refresh to load data</string>
+    <string name="you_delete">"You are deleted post number "</string>
+
+</resources>
